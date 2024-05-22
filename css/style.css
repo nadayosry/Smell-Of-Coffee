@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+header{
+    min-height: 100vh;
+    background-image:  url(../images/pexels-the-lazy-artist-gallery-3310822.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+   
+   
+
+
+}
+
+.ppp{
+    margin-top: 195px;
+}
+
+.list:hover{
+    color: brown;
+
+}
+.p3{
+    border-left:solid  5px black;
+    padding-left: 10px;
+}
+.bb{
+    margin: 20px 20px ;
+}
+
+.b :hover{
+    color: white ;
+    background: red ;
+    border: solid 2px black ;
+    border-radius: 2px ;
+}
+
+.nnn:hover{
+    color:red;
+    
+     
+
+}
+.photo img{
+    opacity: .6;
+    transition: 1s;
+    transform: scale(1.1);
+}
+.photo img:hover{
+    opacity: 1;
+    transform: scale(1);
+    color: brown;
+   
+
+   
+    
+
+   
+}
